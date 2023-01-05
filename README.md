@@ -40,7 +40,7 @@ ____
 6.	Данные о зарплате сотрудников (Employee_salary) – зарплата (serial)
 7.	Проекты (Project) – наименование проекта (varchar())
 
-![alt text](https://github.com/filipp761/10.5-.-HAProxy-Nginx./blob/main/img/haproxy.jpg)
+![alt text](https://github.com/12.01/schema.png)
 
 # Задание 2*
 
