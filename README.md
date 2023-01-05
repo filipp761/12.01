@@ -40,7 +40,8 @@ ____
 6.	Данные о зарплате сотрудников (Employee_salary) – зарплата (serial)
 7.	Проекты (Project) – наименование проекта (varchar())
 
-![alt text](https://github.com/filipp761/11.01./blob/main/img/schema.png)
+![alt text](https://github.com/filipp761/11.01./blob/main/schema.png)
+
 
 # Задание 2*
 
